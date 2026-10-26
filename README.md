@@ -2,7 +2,7 @@
 
 A dark, golden-yellow terminal theme: [Starship](https://starship.rs) prompt for the Ubuntu terminal.
 
-![screenshot](screenshot.png)
+![screenshot](preview.png)
 
 ## Setup (Ubuntu)
 
